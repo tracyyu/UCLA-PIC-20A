@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="register_button">Register</string>
+    <string name="bio_title">My_Life</string>
+    <string name="app_name">HW6</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_new_user">Hello New User!</string>
+    <string name="name">Enter Name:</string>
+    <string name="name_input">Name</string>
+    <string name="age_input">Age</string>
+    <string name="submit_button">Submit</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+    <string name="gender">Gender</string>
+    <string name="rate">Rate Please</string>
+    
+
+</resources>
